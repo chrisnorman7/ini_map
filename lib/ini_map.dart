@@ -3,3 +3,4 @@ library;
 
 export 'exceptions.dart';
 export 'src/ini_to_map.dart';
+export 'src/map_to_ini.dart';

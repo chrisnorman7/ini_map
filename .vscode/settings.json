@@ -16,6 +16,7 @@
     "riverpod",
     "synthizer",
     "todos",
-    "unawaited"
+    "unawaited",
+    "writeln"
   ]
 }
